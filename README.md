@@ -1,3 +1,2 @@
 # Hello, I'm Ilya!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenorX)](https://github.com/anuraghazra/github-readme-stats)
+## Backend developer and studio owner specializing in the development of a proprietary service ecosystem and Unity-based games.
